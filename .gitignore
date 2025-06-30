@@ -1,1 +1,4 @@
 animal_data
+model\animal_model.h5
+model\ResNet50_best_tuned_model.h5
+model\VGG16_best_tuned_model.h5
